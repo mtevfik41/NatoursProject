@@ -1,0 +1,23 @@
+{
+  "name": "NatoursProject",
+  "version": "1.0.0",
+  "description": "<!-- TABLE OF CONTENTS -->",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass -w sass/main.scss css/style.css --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtevfik41/CSS-PracticeBox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtevfik41/CSS-PracticeBox/issues"
+  },
+  "homepage": "https://github.com/mtevfik41/CSS-PracticeBox#readme",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
