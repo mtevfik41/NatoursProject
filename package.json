@@ -4,7 +4,7 @@
   "description": "<!-- TABLE OF CONTENTS -->",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "node-sass -w sass/main.scss css/style.css --recursive"
+    "compile:sass": "node-sass -w sass/main.scss css/style.css"
   },
   "repository": {
     "type": "git",
