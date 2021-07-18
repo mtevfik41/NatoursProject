@@ -22,6 +22,8 @@
 
 ## About The Project
 
+- [Netlify](https://natours-project-app.netlify.app/)
+
 I designed this project from scratch for learning purposes. I learned and applied modern CSS in detail.
 It helped me learn a lot of cool designs and responsive designs with CSS. I also got some idea about npm scripts.
 
