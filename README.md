@@ -22,7 +22,10 @@
 
 ## About The Project
 
-My playground while practicing CSS.
+I designed this project from scratch for learning purposes. I learned and applied modern CSS in detail.
+It helped me learn a lot of cool designs and responsive designs with CSS. I also got some idea about npm scripts.
+
+Copyright &copy; by <a href="https://www.udemy.com/user/jonasschmedtmann/">Jonas Schmedtmann</a>.
 
 ### Built With
 
@@ -30,7 +33,7 @@ My playground while practicing CSS.
 
 - [CSS](https://en.wikipedia.org/wiki/CSS)
 
-- [SASS](https://www.npmjs.com/package/node-sass)
+- [Sass](https://www.npmjs.com/package/node-sass)
 
 <!-- LICENSE -->
 
